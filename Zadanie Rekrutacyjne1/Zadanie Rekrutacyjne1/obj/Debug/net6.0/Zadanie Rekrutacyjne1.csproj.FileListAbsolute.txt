@@ -1,0 +1,37 @@
+C:\---Mati---\Moje Programy\.NET\Zadanie Rekrutacyjne1\Zadanie Rekrutacyjne1\bin\Debug\net6.0\appsettings.Development.json
+C:\---Mati---\Moje Programy\.NET\Zadanie Rekrutacyjne1\Zadanie Rekrutacyjne1\bin\Debug\net6.0\appsettings.json
+C:\---Mati---\Moje Programy\.NET\Zadanie Rekrutacyjne1\Zadanie Rekrutacyjne1\bin\Debug\net6.0\Zadanie Rekrutacyjne1.staticwebassets.runtime.json
+C:\---Mati---\Moje Programy\.NET\Zadanie Rekrutacyjne1\Zadanie Rekrutacyjne1\bin\Debug\net6.0\Zadanie Rekrutacyjne1.exe
+C:\---Mati---\Moje Programy\.NET\Zadanie Rekrutacyjne1\Zadanie Rekrutacyjne1\bin\Debug\net6.0\Zadanie Rekrutacyjne1.deps.json
+C:\---Mati---\Moje Programy\.NET\Zadanie Rekrutacyjne1\Zadanie Rekrutacyjne1\bin\Debug\net6.0\Zadanie Rekrutacyjne1.runtimeconfig.json
+C:\---Mati---\Moje Programy\.NET\Zadanie Rekrutacyjne1\Zadanie Rekrutacyjne1\bin\Debug\net6.0\Zadanie Rekrutacyjne1.dll
+C:\---Mati---\Moje Programy\.NET\Zadanie Rekrutacyjne1\Zadanie Rekrutacyjne1\bin\Debug\net6.0\Zadanie Rekrutacyjne1.pdb
+C:\---Mati---\Moje Programy\.NET\Zadanie Rekrutacyjne1\Zadanie Rekrutacyjne1\obj\Debug\net6.0\Zadanie Rekrutacyjne1.csproj.AssemblyReference.cache
+C:\---Mati---\Moje Programy\.NET\Zadanie Rekrutacyjne1\Zadanie Rekrutacyjne1\obj\Debug\net6.0\Zadanie Rekrutacyjne1.GeneratedMSBuildEditorConfig.editorconfig
+C:\---Mati---\Moje Programy\.NET\Zadanie Rekrutacyjne1\Zadanie Rekrutacyjne1\obj\Debug\net6.0\Zadanie Rekrutacyjne1.AssemblyInfoInputs.cache
+C:\---Mati---\Moje Programy\.NET\Zadanie Rekrutacyjne1\Zadanie Rekrutacyjne1\obj\Debug\net6.0\Zadanie Rekrutacyjne1.AssemblyInfo.cs
+C:\---Mati---\Moje Programy\.NET\Zadanie Rekrutacyjne1\Zadanie Rekrutacyjne1\obj\Debug\net6.0\Zadanie Rekrutacyjne1.csproj.CoreCompileInputs.cache
+C:\---Mati---\Moje Programy\.NET\Zadanie Rekrutacyjne1\Zadanie Rekrutacyjne1\obj\Debug\net6.0\Zadanie Rekrutacyjne1.MvcApplicationPartsAssemblyInfo.cache
+C:\---Mati---\Moje Programy\.NET\Zadanie Rekrutacyjne1\Zadanie Rekrutacyjne1\obj\Debug\net6.0\Zadanie Rekrutacyjne1.RazorAssemblyInfo.cache
+C:\---Mati---\Moje Programy\.NET\Zadanie Rekrutacyjne1\Zadanie Rekrutacyjne1\obj\Debug\net6.0\Zadanie Rekrutacyjne1.RazorAssemblyInfo.cs
+C:\---Mati---\Moje Programy\.NET\Zadanie Rekrutacyjne1\Zadanie Rekrutacyjne1\obj\Debug\net6.0\staticwebassets\msbuild.Zadanie Rekrutacyjne1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\---Mati---\Moje Programy\.NET\Zadanie Rekrutacyjne1\Zadanie Rekrutacyjne1\obj\Debug\net6.0\staticwebassets\msbuild.build.Zadanie Rekrutacyjne1.props
+C:\---Mati---\Moje Programy\.NET\Zadanie Rekrutacyjne1\Zadanie Rekrutacyjne1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Zadanie Rekrutacyjne1.props
+C:\---Mati---\Moje Programy\.NET\Zadanie Rekrutacyjne1\Zadanie Rekrutacyjne1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Zadanie Rekrutacyjne1.props
+C:\---Mati---\Moje Programy\.NET\Zadanie Rekrutacyjne1\Zadanie Rekrutacyjne1\obj\Debug\net6.0\staticwebassets.pack.json
+C:\---Mati---\Moje Programy\.NET\Zadanie Rekrutacyjne1\Zadanie Rekrutacyjne1\obj\Debug\net6.0\staticwebassets.build.json
+C:\---Mati---\Moje Programy\.NET\Zadanie Rekrutacyjne1\Zadanie Rekrutacyjne1\obj\Debug\net6.0\staticwebassets.development.json
+C:\---Mati---\Moje Programy\.NET\Zadanie Rekrutacyjne1\Zadanie Rekrutacyjne1\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\---Mati---\Moje Programy\.NET\Zadanie Rekrutacyjne1\Zadanie Rekrutacyjne1\obj\Debug\net6.0\scopedcss\bundle\Zadanie Rekrutacyjne1.styles.css
+C:\---Mati---\Moje Programy\.NET\Zadanie Rekrutacyjne1\Zadanie Rekrutacyjne1\obj\Debug\net6.0\scopedcss\projectbundle\Zadanie Rekrutacyjne1.bundle.scp.css
+C:\---Mati---\Moje Programy\.NET\Zadanie Rekrutacyjne1\Zadanie Rekrutacyjne1\obj\Debug\net6.0\Zadanie Rekrutacyjne1.dll
+C:\---Mati---\Moje Programy\.NET\Zadanie Rekrutacyjne1\Zadanie Rekrutacyjne1\obj\Debug\net6.0\refint\Zadanie Rekrutacyjne1.dll
+C:\---Mati---\Moje Programy\.NET\Zadanie Rekrutacyjne1\Zadanie Rekrutacyjne1\obj\Debug\net6.0\Zadanie Rekrutacyjne1.pdb
+C:\---Mati---\Moje Programy\.NET\Zadanie Rekrutacyjne1\Zadanie Rekrutacyjne1\obj\Debug\net6.0\Zadanie Rekrutacyjne1.genruntimeconfig.cache
+C:\---Mati---\Moje Programy\.NET\Zadanie Rekrutacyjne1\Zadanie Rekrutacyjne1\obj\Debug\net6.0\ref\Zadanie Rekrutacyjne1.dll
+C:\---Mati---\Moje Programy\.NET\Zadanie Rekrutacyjne1\Zadanie Rekrutacyjne1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\---Mati---\Moje Programy\.NET\Zadanie Rekrutacyjne1\Zadanie Rekrutacyjne1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\---Mati---\Moje Programy\.NET\Zadanie Rekrutacyjne1\Zadanie Rekrutacyjne1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\---Mati---\Moje Programy\.NET\Zadanie Rekrutacyjne1\Zadanie Rekrutacyjne1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\---Mati---\Moje Programy\.NET\Zadanie Rekrutacyjne1\Zadanie Rekrutacyjne1\obj\Debug\net6.0\Zadanie Rekrutacyjne1.MvcApplicationPartsAssemblyInfo.cs
+C:\---Mati---\Moje Programy\.NET\Zadanie Rekrutacyjne1\Zadanie Rekrutacyjne1\obj\Debug\net6.0\Zadanie Rekrutacyjne1.csproj.CopyComplete

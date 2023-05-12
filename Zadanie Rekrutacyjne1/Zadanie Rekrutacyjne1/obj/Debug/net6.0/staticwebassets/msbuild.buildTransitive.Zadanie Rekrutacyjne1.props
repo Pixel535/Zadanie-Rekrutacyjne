@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Zadanie Rekrutacyjne1.props" />
+</Project>
